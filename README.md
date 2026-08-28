@@ -196,7 +196,7 @@ The system returns an employee attrition prediction along with a risk percentage
 
 This project was developed for academic and educational purposes. Any datasets or employee information used for testing should be handled responsibly and in accordance with applicable data protection and privacy regulations.
 
-👉 [View the Detailed Project Report] (
+👉 [View the Detailed Project Report](https://github.com/yadhunandhdineshc-eng/Employee-attrition-predictor/blob/main/Project%20Record%20softcopy.pdf)
 
 ---
 
