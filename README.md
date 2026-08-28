@@ -205,7 +205,7 @@ This project was developed for academic and educational purposes. Any datasets o
 
 ```text
                     ┌─────────────────────┐
-                    │     React Frontend   │
+                    │     React Frontend  │
                     │                     │
                     │ Dashboards          │
                     │ Prediction          │
